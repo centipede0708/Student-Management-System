@@ -26,24 +26,8 @@ The project demonstrates clean JDBC architecture, database connectivity without 
 ---
 
 ## 📁 Project Structure
-Student-Management-System/
-│
-├── lib/
-│ └── mysql-connector-j-8.3.0.jar
-│
-├── src/
-│ ├── model/
-│ │ └── Student.java
-│ │
-│ ├── dao/
-│ │ └── StudentDAO.java
-│ │
-│ ├── util/
-│ │ └── DBConnection.java
-│ │
-│ └── Main.java
-│
-└── README.md
+<img width="478" height="632" alt="image" src="https://github.com/user-attachments/assets/780f6d0e-b440-4dd9-b381-76f55f3f783e" />
+
 
 private static final String URL =
 "jdbc:mysql://localhost:3306/student_db?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true";
