@@ -11,8 +11,8 @@ public class DBConnection {
         "&allowPublicKeyRetrieval=true" +
         "&serverTimezone=UTC";
 
-    private static final String USER = "root";
-    private static final String PASS = "centipede9818";
+    private static final String USER = "";
+    private static final String PASS = "";
 
     public static Connection getConnection() {
         try {
